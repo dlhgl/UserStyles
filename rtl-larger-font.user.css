@@ -8,8 +8,7 @@
 @supportURL   https://github.com/dlhgl/UserStyles/issues
 @updateURL    https://raw.githubusercontent.com/dlhgl/UserStyles/master/rtl-larger-font.user.css
 @license      Unlicense
-@preprocessor stylus
-@var range fontSize "Font size" [1.5, 1.0, 3.0, 0.1, 'em']
+@var range fontSize "Font size" [1.5, 1.0, 2.0, 0.1, 'em']
 ==/UserStyle== */
 @-moz-document regexp("https?://(www|forum)\\.duolingo\\.com/.*") {
   [dir="rtl"] { font-size: var(--fontSize) !important; }
