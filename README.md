@@ -10,3 +10,6 @@ and
 * duo-hide-mm.user.css 
 [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/dlhgl/UserStyles/master/duo-hide-mm.user.css)  
   Hides motivational messages that appear during a lesson
+* rtl-larger-font.user.css
+  [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/dlhgl/UserStyles/master/rtl-larger-font.user.css)  
+  Increases the font size for RTL fonts (text direction from right to left) like Arabic or Hebrew.
