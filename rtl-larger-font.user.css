@@ -12,7 +12,7 @@
 @var range fontSize "Font size" [1.5, 1.0, 3.0, 0.1, 'em']
 ==/UserStyle== */
 @-moz-document regexp("https?://(www|forum)\\.duolingo\\.com/.*") {
-  [dir="rtl"] { font-size: fontSize !important; }
+  [dir="rtl"] { font-size: var(--fontSize) !important; }
 }
 
 
