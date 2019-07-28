@@ -1,3 +1,16 @@
-._2-JcG {
-    display: none !important;
+/* ==UserStyle==
+@name         Duolingo - Hide Motivational Messages
+@version      1.0.0
+@description  Hides motivational messages which appear during a lesson
+@namespace    https://github.com/dlhgl/UserStyles
+@author       dlhgl
+@homepageURL  https://github.com/dlhgl/UserStyles
+@supportURL   https://github.com/dlhgl/UserStyles/issues
+@updateURL    https://raw.githubusercontent.com/dlhgl/UserStyles/master/duo-hide-mm.user.css
+@license      Unlicense
+==/UserStyle== */
+@-moz-document url-prefix("https://www.duolingo.com/"), url-prefix("http://www.duolingo.com/") {
+    ._2-JcG {
+        display: none !important;
+    }
 }
