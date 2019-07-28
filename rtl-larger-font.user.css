@@ -1,0 +1,17 @@
+/* ==UserStyle==
+@name         RTL Larger Font
+@version      1.0.0
+@description  Increases the font size for RTL fonts (text direction from right to left) like Arabic or Hebrew.
+@namespace    https://github.com/dlhgl/UserStyles
+@author       dlhgl
+@homepageURL  https://github.com/dlhgl/UserStyles
+@supportURL   https://github.com/dlhgl/UserStyles/issues
+@updateURL    https://raw.githubusercontent.com/dlhgl/UserStyles/master/rtl-larger-font.user.css
+@license      Unlicense
+==/UserStyle== */
+@-moz-document regexp("https?://(www|forum)\\.duolingo\\.com/.*") {
+  [dir="rtl"] { font-size: 20pt !important; }
+}
+
+
+
