@@ -14,5 +14,5 @@ and
   [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/dlhgl/UserStyles/master/rtl-larger-font.user.css)  
   Increases the font size for RTL fonts (text direction from right to left) like Arabic or Hebrew.
 * duolingo-arabic-companion.user.css
-  [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/dlhgl/UserStyles/master/duolingo-arabic-companion.user.css.user.css)  
+  [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/dlhgl/UserStyles/master/duolingo-arabic-companion.user.css)  
   Companion style to add a user-customizable variable fontSize to the [Duolingo Arabic](https://userstyles.org/styles/173180/duolingo-arabic) user style.
