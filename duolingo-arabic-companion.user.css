@@ -2,7 +2,7 @@
 @name         Duolingo Arabic COMPANION
 @version      1.0.0
 @namespace    https://github.com/dlhgl/UserStyles
-@var range fontSize "Font size" [1.5, 1.0, 2.0, 0.1, 'em']
+@var range fontSize "Font size" [30, 20, 40, 1, 'px']
 ==/UserStyle== */
 @-moz-document url-prefix("https://www.duolingo.com/skill/ar/"), url-prefix("https://forum.duolingo.com/"), url-prefix("https://www.duolingo.com/progress-quiz/ar/"), url-prefix("https://www.duolingo.com/practice"), url-prefix("https://tinycards.duolingo.com/") {
 ._1Y5M_, ._2KUSO, ._2QNyK, ._1wSvB, .iNLw3 {
