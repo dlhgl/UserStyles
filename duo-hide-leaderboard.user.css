@@ -1,0 +1,19 @@
+/* ==UserStyle==
+@name         Hide Leaderboards on Duolingo
+@version      1.0.0
+@description  Hide Leaderboards on Duolingo
+@namespace    https://github.com/dlhgl/UserStyles
+@author       dlhgl
+@homepageURL  https://github.com/dlhgl/UserStyles
+@supportURL   https://github.com/dlhgl/UserStyles/issues
+@updateURL    https://raw.githubusercontent.com/dlhgl/UserStyles/master/duo-hide-leaderboard.user.css
+@license      Unlicense
+==/UserStyle== */
+@-moz-document url-prefix("https://www.duolingo.com/"), url-prefix("http://www.duolingo.com/") {
+    .a5SW0._2ANgP {
+        display: none !important;
+    }
+}
+
+
+
