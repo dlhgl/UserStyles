@@ -10,6 +10,9 @@ and
 * duo-hide-mm.user.css 
 [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/dlhgl/UserStyles/master/duo-hide-mm.user.css)  
   Hides motivational messages that appear during a lesson
+* duo-hide-leaderboard.user.css 
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/dlhgl/UserStyles/master/duo-hide-leaderboard.user.css)  
+  Hides the leaderboards on Duolingo
 * rtl-larger-font.user.css
   [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/dlhgl/UserStyles/master/rtl-larger-font.user.css)  
   Increases the font size for RTL fonts (text direction from right to left) like Arabic or Hebrew.
