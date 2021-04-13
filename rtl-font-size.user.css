@@ -1,0 +1,15 @@
+/* ==UserStyle==
+@name         RTL Font Size
+@version      1.0.0
+@description  Adjusts the font size for RTL fonts (text direction from right to left) like Arabic, Hebrew or Yiddish.
+@namespace    https://github.com/dlhgl/UserStyles
+@author       dlhgl
+@homepageURL  https://github.com/dlhgl/UserStyles
+@supportURL   https://github.com/dlhgl/UserStyles/issues
+@updateURL    https://raw.githubusercontent.com/dlhgl/UserStyles/master/rtl-font-size.user.css
+@license      Unlicense
+@var range fontSize "Font size" [1.2, 0.4, 2.0, 0.1, 'rem']
+==/UserStyle== */
+@-moz-document regexp("https?://(www|forum)\\.duolingo\\.com/.*"), regexp("https?://duome\\.eu/.*") {
+    [dir="rtl"] { font-size: var(--fontSize) !important; }
+}
